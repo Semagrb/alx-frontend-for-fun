@@ -1,4 +1,4 @@
-**Frontend Fun! 😄**
+# Frontend Fun! 😄
 
 ![Frontend Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGI4aXBvc3o0Z295NHVjYW94bHllb3NlZm4wb3g1YXZvMXYzMm0wNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
 
@@ -10,11 +10,11 @@ Frontend development doesn't have to be boring! In fact, it can be a blast! This
 
 ### Why Frontend Fun?
 
-Frontend Fun was born out of a desire to inject some joy and excitement into the often mundane world of frontend development. We believe that when you're having fun, you're more creative, productive, and ultimately, you build better products. So, let's dive in and discover how to make your frontend projects as enjoyable as possible! 🌟
+Frontend Fun was born out of a desire to inject some joy and excitement into the often mundane world of frontend development. I believe that when you're having fun, you're more creative, productive, and ultimately, you build better products. So, let's dive in and discover how to make your frontend projects as enjoyable as possible! 🌟
 
 ### Getting Started
 
-To get started with Frontend Fun, simply clone this repository and start exploring! We've designed our frontend framework to be intuitive and easy to use, so you can spend less time wrestling with code and more time having fun! 🎨
+To get started with Frontend Fun, simply clone this repository and start exploring! I designed my frontend framework to be intuitive and easy to use, so you can spend less time wrestling with code and more time having fun! 🎨
 
 ### Features
 
@@ -34,7 +34,7 @@ We're always looking for contributors to help make Frontend Fun even better! Whe
 
 ### Feedback
 
-Have ideas for new features or improvements? Found a bug that needs fixing? We'd love to hear from you! Head over to our GitHub repository and open an issue or submit a pull request. Your feedback helps us make Frontend Fun the best it can be! 🚀
+Have ideas for new features or improvements? Found a bug that needs fixing? I would love to hear from you! Head over to my GitHub repository and open an issue or submit a pull request. Your feedback helps me make Frontend Fun the best it can be! 🚀
 
 ### Spread the Word
 
@@ -44,3 +44,14 @@ If you love Frontend Fun as much as I do, why not spread the word? Share your cr
 ---
 
 So what are you waiting for? Let's make frontend development fun again! 😊
+
+░██████╗███╗░░██╗███████╗██╗██╗░░██╗░█████╗░ 
+██╔════╝████╗░██║██╔════╝██║██║░██╔╝██╔══██╗ 
+╚█████╗░██╔██╗██║█████╗░░██║█████═╝░███████║ 
+░╚═══██╗██║╚████║██╔══╝░░██║██╔═██╗░██╔══██║ 
+██████╔╝██║░╚███║███████╗██║██║░╚██╗██║░░██║ 
+╚═════╝░╚═╝░░╚══╝╚══════╝╚═╝╚═╝░░╚═╝╚═╝░░╚═╝ 
+
+
+
+
